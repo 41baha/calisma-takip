@@ -1,0 +1,12 @@
+body {
+  background-color: #f4f5f7;
+}
+
+.header-gradient {
+  background: linear-gradient(135deg, #0f766e, #14b8a6);
+}
+
+.stat-number,
+.study-title {
+  color: #0f766e;
+}
