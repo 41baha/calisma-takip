@@ -35,4 +35,13 @@ Not: JSONPlaceholder sahte bir test API'sidir. Ondan gelen kayıtlar uygulamaya 
 - `src/main.jsx`: uygulamanın başlangıç noktası
 
 ## Canlı Demo
-Netlify linki: (yayına alınca buraya eklenecek)
+Netlify linki: https://calisma-takip-baha.netlify.app
+
+## Ekran Görüntüleri
+![Ana sayfa](ekran-goruntuleri/1-ana-sayfa.png)
+
+![Çalışma ekleme](ekran-goruntuleri/2-ekleme.png)
+
+![Çalışma düzenleme](ekran-goruntuleri/3-duzenleme.png)
+
+![Çalışma silme](ekran-goruntuleri/4-silme.png)
